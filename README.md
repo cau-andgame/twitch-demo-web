@@ -3,6 +3,12 @@
 2019 자연어처리 1분반 #team And-Game 데모 웹페이지입니다. 
 
 
+## SOURCE CODE
+look at gh-pages branch
+
+## RealTime Demo
+https://cau-andgame.github.io/twitch-demo-web/
+
 ## 팀원 명단
 멤버  | 이름
 ------|--------
